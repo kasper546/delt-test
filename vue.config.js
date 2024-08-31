@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  publickPath: `/delt-test/`,
+  publicPath: `/delt-test/`,
   transpileDependencies: true
 })

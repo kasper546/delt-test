@@ -90,7 +90,7 @@ onMounted(() => {
     labels: ['', '', ''],
     datasets: [
       {
-        label: 'Январь',
+        label: '',
         backgroundColor: 'rgba(66, 165, 245, 0.2)',
         borderColor: '#42A5F5',
         data: [rows[0].value1, rows[0].value2, rows[0].value3],
